@@ -20,7 +20,6 @@ body {
 	font-family: 'Big Shoulders Display', cursive;
 	color: hsl(0, 0%, 95%);
 	text-transform: uppercase;
-	font-size: 2.5rem;
 }
 .main img {
 	margin-bottom: 5%;
@@ -72,15 +71,15 @@ a {
 @media all and (min-width: 1440px) {
 	.main {
 		margin: 9% auto;
-		width: 70%;
+		width: 60%;
 		grid-template-columns: repeat(3, auto);
+		font-size: 1.2rem;
 	}
 	.main div {
-		padding: 15% 15%;
+		padding: 15% 20%;
 	}
 	.main p {
-		margin: 10% auto;
-		font-size: 1rem;
+		margin: 25% auto;
 	}
 	.sedans {
 		border-radius: 10px 0 0 10px;
