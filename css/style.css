@@ -10,7 +10,7 @@ body {
 	margin: 15% auto;
 }
 .main div {
-	padding: 0 10%;
+	padding: 15%;
 }
 .main p {
 	font-family: 'Lexend Deca', sans-serif;
@@ -76,10 +76,11 @@ a {
 		grid-template-columns: repeat(3, auto);
 	}
 	.main div {
-		padding: 15% 20%;
+		padding: 15% 15%;
 	}
 	.main p {
-		margin: 25% auto;
+		margin: 10% auto;
+		font-size: 1rem;
 	}
 	.sedans {
 		border-radius: 10px 0 0 10px;
