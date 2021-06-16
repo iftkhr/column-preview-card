@@ -71,7 +71,7 @@ a {
 @media all and (min-width: 1440px) {
 	.main {
 		margin: 9% auto;
-		width: 60%;
+		width: 70%;
 		grid-template-columns: repeat(3, auto);
 		font-size: 1.2rem;
 	}
