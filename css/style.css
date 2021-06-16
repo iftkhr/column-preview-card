@@ -71,15 +71,16 @@ a {
 
 @media all and (min-width: 1440px) {
 	.main {
-		margin: 11% auto;
-		width: 50%;
+		margin: 10% auto;
+		width: 70%;
 		grid-template-columns: repeat(3, auto);
 	}
 	.main div {
-		padding: 15% 17%;
+		padding: 15% 20%;
 	}
 	.main p {
-		margin: 25% auto;
+		margin: 15% auto;
+		font-size: 1.1rem;
 	}
 	.sedans {
 		border-radius: 10px 0 0 10px;
