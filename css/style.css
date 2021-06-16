@@ -20,6 +20,7 @@ main {
 .content {
 	font-family: 'Lexend Deca', sans-serif;
 	color: hsla(0, 0%, 100%, 0.75);
+	line-height: 25px;
 }
 .headings {
 	font-family: 'Big Shoulders Display', cursive;
@@ -77,13 +78,13 @@ a {
 
 @media all and (min-width: 1024px) {
 	main {
-		margin: 12% auto;
-		width: 60%;
+		margin: 10% auto;
+		width: 65%;
 		grid-template-columns: repeat(3, auto);
 		max-width: none;
 	}
 	.content {
-		margin: 0 auto 15% auto;
+		margin: 0 auto 30% auto;
 	}
 	.sedans {
 		border-radius: 10px 0 0 10px;
