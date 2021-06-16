@@ -71,12 +71,12 @@ a {
 
 @media all and (min-width: 1440px) {
 	.main {
-		margin: 9% auto;
-		width: 60%;
+		margin: 11% auto;
+		width: 50%;
 		grid-template-columns: repeat(3, auto);
 	}
 	.main div {
-		padding: 15% 20%;
+		padding: 15% 17%;
 	}
 	.main p {
 		margin: 25% auto;
